@@ -9,6 +9,6 @@ package ena.modelos;
  *
  * @author mfaun
  */
-public class Usuario {
+public class Gerencia {
     
 }
