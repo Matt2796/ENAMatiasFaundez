@@ -18,7 +18,7 @@ import java.sql.Statement;
 public class Conexion {
     Connection conexion;
     String url = "jdbc:mysql://localhost:3306/"; 
-    String bd = "evaluacion3"; 
+    String bd = "enajava"; 
     String driver = "com.mysql.jdbc.Driver"; 
     String usuario = "root"; 
     String password = "";
